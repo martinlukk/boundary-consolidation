@@ -6,6 +6,8 @@ This repository contains code and instructions to reproduce the main analyses re
 
 The published version (open access) is available here: https://journals.sagepub.com/doi/full/10.1177/23780231241251714.
 
+Supplemental materials for this article are available here: https://osf.io/2xsv6/files/tm2xy.
+
 ## Citation
 
 Lukk, Martin. 2024. “Politics of Boundary Consolidation: Income Inequality, Ethnonationalism, and Radical-Right Voting.” _Socius_ 10. https://doi.org/10.1177/23780231241251714
